@@ -1,5 +1,5 @@
 import SvgImage from "./assets/svg1.svg";
-import { FaArrowRightLong } from "react-icons/fa6";
+// import { FaArrowRightLong } from "react-icons/fa6";
 
 function App() {
   return (
