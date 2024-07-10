@@ -1,4 +1,4 @@
-import wplayLogo from "./assets/tvs-logo.png";
+import tvsLogo from "./assets/tvs-logo.png";
 import backgroundImage from "././assets/background.webp";
 import {
   Accordion,
@@ -32,7 +32,7 @@ function App() {
       <div className="relative z-10 overflow-y-auto w-full">
         <div className="w-full flex-col justify-start items-center inline-flex gap-6 mt-6">
           <div className="flex-col justify-start items-center flex max-w-[90%] md:max-w-[60%] gap-10">
-            <img src={wplayLogo} alt="wplay" className="h-10"/>
+            <img src={tvsLogo} alt="tvs" className="h-10"/>
             <h1 className="font-bold  text-balance  text-center text-4xl md:text-6xl ">
               Eleve sua experiência: descubra o novo painel agora!
             </h1>
