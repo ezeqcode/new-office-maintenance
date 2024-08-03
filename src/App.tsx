@@ -15,9 +15,12 @@ function App() {
             para melhorar ainda mais a sua experiência. Em breve, você poderá
             retornar ao painel atualizado com novidades e melhorias.
           </span>
-        </div>
 
-       
+          <div className="flex gap-1">
+            <span>Acesse por aqui</span>
+            <a href="https://beta.wplay.vip/">beta.wplay.vip</a>
+          </div>
+        </div>
       </div>
     </div>
   );
